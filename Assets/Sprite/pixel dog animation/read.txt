@@ -1,0 +1,3 @@
+if your using it for unity make sure to put on Point (no fiter)
+ and use sprite editer make the sprite mode (multiple) to break it into multiple sprites.
+If you don't use unity and want to use it for somthimg else then i have a folder with all the frames.
